@@ -1,0 +1,13 @@
+*.asv
+*.mat
+*.csv
+*.fig
+*.pdf
+*.png
+*.log
+.DS_Store
+Thumbs.db
+slprj/
+codegen/
+
+!licenses/*.txt

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Nonsmooth Stiefel Landing Methods"
+type: software
+authors:
+  - family-names: Cui
+    given-names: Zilong
+  - family-names: Hu
+    given-names: Tongxin
+  - family-names: Gao
+    given-names: Bin
+  - family-names: Gu
+    given-names: Ran
+repository-code: "https://github.com/cui-zilong/Nonsmooth-Stiefel-Landing"
+url: "https://arxiv.org/abs/2610.30617"
+preferred-citation:
+  type: article
+  title: "Retraction-Free Nonsmooth Optimization on the Stiefel Manifold: Subgradient and Proximal Landing Methods"
+  authors:
+    - family-names: Cui
+      given-names: Zilong
+    - family-names: Hu
+      given-names: Tongxin
+    - family-names: Gao
+      given-names: Bin
+    - family-names: Gu
+      given-names: Ran
+  year: 2026
+  journal: "arXiv preprint arXiv:2610.30617"
+  doi: "10.48550/arXiv.2610.30617"
